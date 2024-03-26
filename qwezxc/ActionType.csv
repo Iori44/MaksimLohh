@@ -1,0 +1,16 @@
+﻿ActionTypeId;Name
+1;Enter
+2;Substitute
+3;Field Goal Made
+4;Field Goal Missed
+5;3-Points Field Goal Made
+6;3-Points Field Goal Missed
+7;Free Throw Made
+8;Free Throw Missed
+9;Offensive Rebound
+10;Defensive Rebound
+11;Assist
+12;Steal
+13;Block
+14;Turnover
+15;Foul
